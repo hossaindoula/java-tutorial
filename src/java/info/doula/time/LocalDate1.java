@@ -28,8 +28,8 @@ public class LocalDate1 {
 
         DateTimeFormatter germanFormatter =
                 DateTimeFormatter
-                        .ofLocalizedDate(FormatStyle.MEDIUM)
-                        .withLocale(Locale.GERMAN);
+                .ofLocalizedDate(FormatStyle.MEDIUM)
+                .withLocale(Locale.GERMAN);
 
         LocalDate xmas = LocalDate.parse("24.12.2014", germanFormatter);
         System.out.println(xmas);   // 2014-12-24
