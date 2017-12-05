@@ -7,15 +7,16 @@ public class Lambda6 {
 
     public static void main(String[] args) {
         Lambda6 second = new Lambda6();
-        MathOperation addition = (int a, int b) -> a + b;
+
+        MathOperation addition = Integer::sum;
         MathOperation subtraction = (a, b) -> a - b;
         MathOperation multiplication = (a, b) -> a * b;
         MathOperation division = (a, b) -> a / b;
 
         System.out.println("addition = " + second.operate(5, 5, addition));
-        System.out.println("subtraction = " + second.operate(5, 5, subtraction));
+        System.out.println("subtraction = " + second.operate(6, 5, subtraction));
         System.out.println("multiplication = " + second.operate(5, 5, multiplication));
-        System.out.println("division = " + second.operate(5,5, division));
+        System.out.println("division = " + second.operate(6,7, division));
 
         GreetingService greetingService = message -> System.out.println("hello " + message);
 
