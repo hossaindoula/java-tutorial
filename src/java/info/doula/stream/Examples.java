@@ -1,7 +1,5 @@
 package info.doula.stream;
 
-import com.shekhargulati.java8_tutorial.domain.Task;
-import com.shekhargulati.java8_tutorial.domain.TaskType;
 
 import java.util.List;
 

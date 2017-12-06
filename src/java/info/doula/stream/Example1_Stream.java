@@ -1,14 +1,10 @@
 package info.doula.stream;
 
 
-import com.shekhargulati.java8_tutorial.domain.Task;
-import com.shekhargulati.java8_tutorial.domain.TaskType;
-
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static com.shekhargulati.java8_tutorial.utils.DataUtils.getTasks;
-
+import static info.doula.stream.DataUtils.getTasks;
 
 public class Example1_Stream {
 

@@ -1,15 +1,11 @@
 package info.doula.stream;
 
-
-import com.shekhargulati.java8_tutorial.domain.Task;
-import com.shekhargulati.java8_tutorial.domain.TaskType;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import static com.shekhargulati.java8_tutorial.utils.DataUtils.getTasks;
+import static info.doula.stream.DataUtils.getTasks;
 
 
 public class Example1_Java7 {
