@@ -8,7 +8,7 @@ Welcome to my introduction to [Java 8](https://jdk8.java.net/). This tutorial gu
 ---
 
 <p align="center">
- ★★★ Like this project? Leave a star, <a href="https://github.com/hossaindoula">follow on Twitter</a> and check out my new project <a href="https://github.com/hossaindoula/spring-boot-api">Sequency</a>. Thanks! ★★★
+ ★★★ Like this project? Leave a star, <a href="https://github.com/hossaindoula">follow on Github</a> and check out my new project <a href="https://github.com/hossaindoula/spring-boot-api">Spring Boot Start</a>. This is an ongoing project. So any contribution to the project is much appreciated. Thanks! ★★★
 </p>
 
 ---
