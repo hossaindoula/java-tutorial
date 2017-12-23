@@ -8,7 +8,15 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @author Mohammed Hossain Doula <hossaindoula@gmail.com>
+ * Mohammed Hossain Doula
+ *
+ * @hossaindoula | @itconquest
+ *
+ * skype: mohammedhossaindoularonnie
+ *
+ * http://hossaindoula.com
+ *
+ * https://github.com/hossaindoula
  */
 public class Executors2 {
 

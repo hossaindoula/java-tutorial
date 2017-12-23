@@ -3,7 +3,15 @@ package info.doula.concurrency;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Mohammed Hossain Doula <hossaindoula@gmail.com>
+ * Mohammed Hossain Doula
+ *
+ * @hossaindoula | @itconquest
+ *
+ * skype: mohammedhossaindoularonnie
+ *
+ * http://hossaindoula.com
+ *
+ * https://github.com/hossaindoula
  */
 public class Threads1 {
 

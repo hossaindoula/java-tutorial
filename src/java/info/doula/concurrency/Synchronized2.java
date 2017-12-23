@@ -5,7 +5,15 @@ import java.util.concurrent.Executors;
 import java.util.stream.IntStream;
 
 /**
- * @author Mohammed Hossain Doula <hossaindoula@gmail.com>
+ * Mohammed Hossain Doula
+ *
+ * @hossaindoula | @itconquest
+ *
+ * skype: mohammedhossaindoularonnie
+ *
+ * http://hossaindoula.com
+ *
+ * https://github.com/hossaindoula
  */
 public class Synchronized2 {
 
