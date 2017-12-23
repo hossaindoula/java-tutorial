@@ -14,7 +14,6 @@ import java.nio.InvalidMarkException;
  *
  * https://github.com/hossaindoula
  */
-
 public class BufferInfo {
 	public static void main(String[] args) {
 		// Create a byte buffer of capacity 8

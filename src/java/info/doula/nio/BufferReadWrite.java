@@ -13,7 +13,6 @@ import java.nio.ByteBuffer;
  *
  * https://github.com/hossaindoula
  */
-
 public class BufferReadWrite {
 	public static void main(String[] args) {
 		// Create a byte buffer with a capacity of 8
