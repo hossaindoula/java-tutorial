@@ -6,6 +6,15 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 
+/**
+ * Mohammed Hossain Doula
+ *
+ * @hossaindoula | @itconquest
+ * <p>
+ * http://hossaindoula.com
+ * <p>
+ * https://github.com/hossaindoula
+ */
 public class FunctionalInterfaces {
 
     public static void main(String[] args) {
