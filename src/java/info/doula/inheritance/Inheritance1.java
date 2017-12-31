@@ -1,7 +1,13 @@
 package info.doula.inheritance;
 
 /**
- * Created by tasnim on 12/5/2017.
+ * Mohammed Hossain Doula
+ *
+ * @hossaindoula | @itconquest
+ * <p>
+ * http://hossaindoula.com
+ * <p>
+ * https://github.com/hossaindoula
  */
 public class Inheritance1 implements A {
     @Override
