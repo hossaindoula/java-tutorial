@@ -1,9 +1,14 @@
 package info.doula.inheritance;
 
 /**
- * Example of @FunctionalInterface
+ * Mohammed Hossain Doula
+ *
+ * @hossaindoula | @itconquest
+ * <p>
+ * http://hossaindoula.com
+ * <p>
+ * https://github.com/hossaindoula
  */
-
 @FunctionalInterface
 public interface InvalidFunctionInterface {
 
