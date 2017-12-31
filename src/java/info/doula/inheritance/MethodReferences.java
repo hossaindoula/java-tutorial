@@ -8,6 +8,15 @@ import java.util.function.Function;
 
 import static java.util.Comparator.comparingInt;
 
+/**
+ * Mohammed Hossain Doula
+ *
+ * @hossaindoula | @itconquest
+ * <p>
+ * http://hossaindoula.com
+ * <p>
+ * https://github.com/hossaindoula
+ */
 public class MethodReferences {
 
     public static void main(String[] args) {
