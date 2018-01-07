@@ -1,4 +1,4 @@
-//package info.doula.oop;
+package info.doula.oop;
 
 /**
  * Mohammed Hossain Doula
@@ -9,7 +9,6 @@
  * <p>
  * https://github.com/hossaindoula
  */
-public class BaseClass {
-	int i = 5;
-	protected int q = 6;
+public class AssociatedClass {
+	int a = 33;
 }
