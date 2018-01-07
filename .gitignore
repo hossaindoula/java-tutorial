@@ -4,3 +4,6 @@
 out
 /bin/
 target/
+gradle/
+.gradle/
+gradlew*
