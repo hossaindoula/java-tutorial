@@ -1,5 +1,9 @@
 package info.doula.oop;
 
+import java.util.Scanner;
+
+import static java.lang.Integer.parseInt;
+
 /**
  * Mohammed Hossain Doula
  *
@@ -11,24 +15,41 @@ package info.doula.oop;
  */
 public class Calculation {
 
-    static int sum(int a, int b) {
+    /**
+     * One part of Polymorphism is method overloading where method name
+     * would be same but different parameters could be provided
+     */
+    int sum(int a, int b) {
         return a + b;
     }
 
-    static int sum(int a, int b, int c) {
+    int sum(int a, int b, int c) {
         return a + b + c;
     }
     
-    static int sum(int a, int b, int c, int d) {
+    int sum(int a, int b, int c, int d) {
         return a + b + c + d;
     }
     
-    static int sum(int a, int b, int c, int d, int e) {
+    int sum(int a, int b, int c, int d, int e) {
         return a + b + c + d + e;
     }
 
     public static void main(String[] args) {
-        System.out.println("The summation of 5 and 9 is : " + sum(5, 9));
-        System.out.println("The summation of 10, 9, 18 and 20 is : " + sum(10, 9, 18, 20));
+        Calculation calculation = new Calculation();
+        /*if (args.length == 2)
+            System.out.println("The summation of "+ args[0] + " and "+ args[1] +" is : " 
+            + calculation.sum(parseInt(args[0]), parseInt(args[1])));
+
+        if (args.length == 4)
+            System.out.println("The summation of " + args[0] +", "+ args[1] +", "+ args[2] +" and "+ args[3] +" is : " 
+            + calculation.sum(parseInt(args[0]), parseInt(args[1]),
+                parseInt(args[2]), parseInt(args[3])));*/
+
+        Scanner s = new Scanner(System.in);
+        int n = s.nextInt();
+        System.out.println(n);
+
+
     }
 }
